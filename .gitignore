@@ -1,0 +1,4 @@
+target/
+# Local screenshots and marketing sources; the README images live in docs/.
+shots/
+marketing/
